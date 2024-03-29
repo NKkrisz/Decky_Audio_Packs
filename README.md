@@ -25,3 +25,4 @@ Documentation on how to make your own packs is [available here](https://docs.dec
     - [Album Download Page (Bandcamp)](https://c418.bandcamp.com/album/life-changing-moments-seem-minor-in-pictures)
     - Used Songs From This Album:
         - I lack an emotion
+            - The version available in this repository is slightly edited by me to comply with Audio Loader's submission rules (fade in/out effect and volume decreased).
