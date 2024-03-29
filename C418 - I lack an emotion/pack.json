@@ -1,0 +1,10 @@
+{
+    "name": "C418 - I lack an emotion",
+    "description": "I lack an emotion is from the album \"life changing moments seem minor in pictures\" available for free downloading on C418's Bandcamp page (https://c418.bandcamp.com/album/life-changing-moments-seem-minor-in-pictures). It's slightly edited by me to comply with Audio Loader's submission rules (fade in/out effect and volume decreased). More information about the album is available here: https://c418.org/albums/life-changing-moments-seem-minor-in-pictures/",
+    "author": "NKkrisz",
+    "version": "v0.1",
+    "manifest_version": 2,
+    "music": true,
+    "ignore": [],
+    "mappings": {}
+}
