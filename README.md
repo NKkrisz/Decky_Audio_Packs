@@ -1,4 +1,6 @@
-# What is this repository for?
+# [Archiving the project due to music packs being depracated](https://discord.com/channels/1051660079033745478/1053060206298415114/1284570101823045713)
+
+## What is this repository for?
 
 I made this repository because I want to make some of my favourite music available in the [Steam Deck Audio Loader Plugin](https://github.com/DeckThemes/SDH-AudioLoader).  
 Documentation on how to make your own packs is [available here](https://docs.deckthemes.com/AudioLoader/).
